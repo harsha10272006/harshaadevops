@@ -1,1 +1,4 @@
+git add .github/workflows/main.yml
+git commit -m "Add working GitHub Actions workflow"
+git push origin main
 
